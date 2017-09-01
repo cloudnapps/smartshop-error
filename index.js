@@ -10,5 +10,6 @@ module.exports = {
   UserNotExistError:                            'user not exist',
   WrongParameterError:                          'wrong parameter',
   InternalError:                                'internal error',
-  ResourceNotFoundError:                        'resource not found'
+  ResourceNotFoundError:                        'resource not found',
+  RequireTokenError:                            'require token error'
 };
